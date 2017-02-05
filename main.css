@@ -1,0 +1,8 @@
+.banners{
+  background: black;
+}
+.row{
+  background: orange;
+  color: blue;
+  display: inline;
+}
